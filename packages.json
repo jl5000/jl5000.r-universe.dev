@@ -26,5 +26,9 @@
     {
         "package": "shinyged",
         "url": "https://github.com/jl5000/shinyged"
+    },
+    {
+        "package": "queryged",
+        "url": "https://github.com/jl5000/queryged"
     }
 ]
