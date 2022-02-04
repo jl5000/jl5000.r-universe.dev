@@ -26,9 +26,5 @@
     {
         "package": "shinyged",
         "url": "https://github.com/jl5000/shinyged"
-    },
-    {
-        "package": "wordcloud2",
-        "url": "https://github.com/jl5000/wordcloud2"
     }
 ]
