@@ -26,9 +26,5 @@
     {
         "package": "shinyged",
         "url": "https://github.com/jl5000/shinyged"
-    },
-    {
-        "package": "httr2.patch118",
-        "url": "https://github.com/jl5000/httr2.patch118"
     }
 ]
